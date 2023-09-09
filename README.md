@@ -4,5 +4,5 @@
 -  I’m open to getting positive critiques on my work.
 -  How to reach me:
    Email:laibajamil404@gmail.com
-   Linkedin:linkedin.com/in/laiba-awan-
+   Linkedin:https://www.linkedin.com/in/laiba-awan-/
 
