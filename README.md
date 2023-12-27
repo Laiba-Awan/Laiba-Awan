@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiba Jamil</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" src="https://github.com/Laiba-Awan/Laiba-Awan/assets/125499548/d32c7264-091a-413b-b9b4-94523dca8abd" alt="coding icon" />
+<img align="right" src="https://github.com/Laiba-Awan/Laiba-Awan/assets/125499548/d32c7264-091a-413b-b9b4-94523dca8abd" alt="coding icon" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba-awan&label=Profile%20views&color=0e75b6&style=flat" alt="laiba-awan" /> </p>
 
