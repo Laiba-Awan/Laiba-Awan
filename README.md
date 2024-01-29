@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba-awan&label=Profile%20views&color=0e75b6&style=flat" alt="laiba-awan" /> </p>
 
 - 🔭 I’m currently doing an apprenticeship at IEC.
+   My Live Portfolio Projects at IEC: 
 -  [Elixir](https://laiba-awan.github.io/Portfolio-Project-1/)
 -  [Elegance](https://laibajamil-404-react.vercel.app/)
   
